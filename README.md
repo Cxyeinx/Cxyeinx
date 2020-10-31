@@ -1,4 +1,4 @@
-### Hi there 👋🏻
+# Hi there 👋🏻
 
 ## Exainz
 I'm Prathmesh Vishwakarma from India, people call me Exainz and I'm currently a High School Student. I really like playing with Mathematics and currently learning Computational Mathematics and Data Science myself.
