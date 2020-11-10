@@ -17,4 +17,4 @@ I'm Prathmesh Vishwakarma from India, people call me Exainz and I'm currently a 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exainz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Exainz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=exainz)](https://github.com/anuraghazra/github-readme-stats)
