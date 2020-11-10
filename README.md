@@ -5,7 +5,6 @@ I'm Prathmesh Vishwakarma from India, people call me Exainz and I'm currently a 
 
 ## My Skills
 - Python
-- C++
 - Mathematics
 - Data Science and Deep Learning
 - Data Analytics
