@@ -1,7 +1,7 @@
 # Hi there 👋🏻
 
 ## Introduction
-I'm Prathmesh Vishwakarma from India, people call me Exainz and I'm currently a High School Student. I really like playing with Mathematics and currently learning Computational Mathematics and Data Science myself.
+I'm Prathmesh Vishwakarma from India, people call me Exainz or James and I'm currently a High School Student. I really like playing with Mathematics and currently learning Computational Mathematics and Data Science myself.
 
 ## My Skills
 - Python
