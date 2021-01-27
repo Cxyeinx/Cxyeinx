@@ -11,8 +11,3 @@ I'm Prathmesh Vishwakarma from India, people call me Exainz or James and I'm cur
 
 ## Find me around the web 🌎:
 - Playing on <a href="https://discord.com/users/761976845200785408">Discord</a>
-
-[![Exainz's github stats](https://github-readme-stats.vercel.app/api?username=Exainz)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exainz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
